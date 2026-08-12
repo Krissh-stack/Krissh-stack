@@ -1,16 +1,26 @@
-## Hi there 👋
+👨‍💻 About Me
 
-<!--
-**Krissh-stack/Krissh-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science undergraduate @ SRM Institute of Science and Technology
 
-Here are some ideas to get you started:
+- 💻 Full-Stack Developer focused on building scalable & user-friendly web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚛️ Experienced with React, Next.js, Node.js, Express.js & RESTful APIs
+
+- 🗄️ Comfortable working with MongoDB, PostgreSQL & MySQL
+
+- 🚀 Passionate about building responsive UIs, scalable backend systems & optimized APIs
+
+- 🧠 Currently improving my skills in full-stack development and software engineering
+
+- 🤝 Open to collaborating on Full-Stack, Web Development & Open-Source projects
+🌐 Socials:
+Instagram LinkedIn Pinterest Quora email
+
+💻 Tech Stack:
+C++ JavaScript CSS3 HTML5 TypeScript AWS Azure Google Cloud Vercel Django Express.js FastAPI NodeJS Next JS Nodemon Vue.js JWT Supabase MySQL MongoDB Postgres Adobe NumPy Pandas scikit-learn Plotly
+
+📊 GitHub Stats:
+
+
+
+
