@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🎓 Computer Science undergraduate @ SRM Institute of Science and Technology<br><br>- 💻 Full-Stack Developer focused on building scalable & user-friendly web applications<br><br>- ⚛️ Experienced with React, Next.js, Node.js, Express.js & RESTful APIs<br><br>- 🗄️ Comfortable working with MongoDB, PostgreSQL & MySQL<br><br>- 🚀 Passionate about building responsive UIs, scalable backend systems & optimized APIs<br><br>- 🧠 Currently improving my skills in full-stack development and software engineering<br><br>- 🤝 Open to collaborating on Full-Stack, Web Development & Open-Source projects
+<br><br>- 🎓 Computer Science undergraduate @ SRM Institute of Science and Technology<br><br>- 💻 Full-Stack Developer focused on building scalable & user-friendly web applications<br><br>- ⚛️ Experienced with React, Next.js, Node.js, Express.js & RESTful APIs<br><br>- 🗄️ Comfortable working with MongoDB, PostgreSQL & MySQL<br><br>- 🚀 Passionate about building responsive UIs, scalable backend systems & optimized APIs<br><br>- 🧠 Currently improving my skills in full-stack development and software engineering<br><br>- 🤝 Open to collaborating on Full-Stack, Web Development & Open-Source projects
 
 
 ## 🌐 Socials:
